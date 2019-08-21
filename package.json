@@ -1,0 +1,17 @@
+{
+  "name": "web-components",
+  "version": "1.0.0",
+  "description": "POC for different web components",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test",
+    "start": "node app"
+  },
+  "author": "Harish",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "livereload": "^0.8.0",
+    "server-static": "^2.0.5"
+  }
+}
